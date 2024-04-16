@@ -1,0 +1,7 @@
+		this.monthlyText = 
+            '//div[@class = "sc-bc1b4bb7-0 decUMg"]/div/div[4]/div/div/div/div/div/div[2]/div[2]/div[2]/p';
+        this.priceText = 
+            '//div[@class = "sc-bc1b4bb7-0 decUMg"]/div/div[4]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div';
+        this.vatText =
+            '//div[@class = "sc-bc1b4bb7-0 decUMg"]/div/div[4]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div/div/h5';
+        
